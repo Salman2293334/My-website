@@ -1,4 +1,14 @@
+
 /* General reset */
+    .profile-img {
+  width: 150px;
+  height: auto;
+  border-radius: 50%;
+  display: block;
+  margin: 10px auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
 * {
     margin: 0;
     padding: 0;
